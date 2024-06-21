@@ -1,8 +1,3 @@
 # Ignorar todos os arquivos executáveis
 *.exe 
 
-# Ignorar a pasta 'dados'
-dados/ 
-
-#ignorar pasta 'teste'
-teste/
